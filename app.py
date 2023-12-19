@@ -8,6 +8,7 @@ import plotly.express as px
 
 # Set the title of the app
 st.title('Airbnb Paris Analyse de marché V2')
+st.title('Hello)
 
 # URL to fetch the data
 DATA_URL = ('http://data.insideairbnb.com/france/ile-de-france/paris/2023-09-04/visualisations/listings.csv')
